@@ -1,0 +1,12 @@
+@import "fonts.css";
+
+html {
+  font-size: 14px;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: var(--open-sans);
+}
